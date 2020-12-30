@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Edward-Kabue/webportfolio.git/static/css/main.fbec4b97.chunk.css",
+    "main.js": "/Edward-Kabue/webportfolio.git/static/js/main.6cb69b0f.chunk.js",
+    "main.js.map": "/Edward-Kabue/webportfolio.git/static/js/main.6cb69b0f.chunk.js.map",
+    "runtime-main.js": "/Edward-Kabue/webportfolio.git/static/js/runtime-main.341efc45.js",
+    "runtime-main.js.map": "/Edward-Kabue/webportfolio.git/static/js/runtime-main.341efc45.js.map",
+    "static/css/2.ec02d681.chunk.css": "/Edward-Kabue/webportfolio.git/static/css/2.ec02d681.chunk.css",
+    "static/js/2.da87fac5.chunk.js": "/Edward-Kabue/webportfolio.git/static/js/2.da87fac5.chunk.js",
+    "static/js/2.da87fac5.chunk.js.map": "/Edward-Kabue/webportfolio.git/static/js/2.da87fac5.chunk.js.map",
+    "index.html": "/Edward-Kabue/webportfolio.git/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/Edward-Kabue/webportfolio.git/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.fbec4b97.chunk.css.map": "/Edward-Kabue/webportfolio.git/static/css/main.fbec4b97.chunk.css.map",
+    "static/js/2.da87fac5.chunk.js.LICENSE.txt": "/Edward-Kabue/webportfolio.git/static/js/2.da87fac5.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/Edward-Kabue/webportfolio.git/static/media/yourapps.17e9cdd4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.341efc45.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.da87fac5.chunk.js",
+    "static/css/main.fbec4b97.chunk.css",
+    "static/js/main.6cb69b0f.chunk.js"
+  ]
+}
