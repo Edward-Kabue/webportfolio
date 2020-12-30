@@ -129,7 +129,8 @@ const social = {
   facebook: "https://facebook.com",
   linkedin: "https://linkedin.com",
   instagram: "https://instagram.com",
-  resume: "https://novoresume.com/",
+  resume:
+    "https://drive.google.com/file/d/1P8v_s2ijh9uWZTA9hqNNILM1tUnYSVqh/view?usp=sharing",
 };
 // Dont change anything here
 export {
