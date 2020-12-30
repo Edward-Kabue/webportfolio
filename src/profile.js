@@ -118,7 +118,7 @@ const projects = [
 // To get your own jotform link, go to https://www.jotform.com/
 // If you hacve the link already, paste it in the contactUrl below
 const contact = {
-  pitch: "Developered with passion.",
+  pitch: "Developed with passion.",
   copyright: "Edward Kabue",
   contactUrl: "",
 };
